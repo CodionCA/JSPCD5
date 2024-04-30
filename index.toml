@@ -1629,12 +1629,20 @@ file = "mods/InvMove-1.20-0.8.4-Fabric.jar"
 hash = "391535a629cd2f114dbebc142d923b065357c62caa5e946c326c3a3a8d7730e2"
 
 [[files]]
+file = "mods/Necronomicon-Fabric-1.4.2.jar"
+hash = "e9672731e310e8d93813f06fed60e8d3c4877d782a99c284d7b1100bb38503b8"
+
+[[files]]
 file = "mods/RecipeCooldown-1.0.0.jar"
 hash = "44d18ff65f42d7abc3103992e0611b8941ba0e8affdb65c7ee63d5ac230144d3"
 
 [[files]]
 file = "mods/Searchables-fabric-1.20.1-1.0.3.jar"
 hash = "f32e0b0c9bebc99944ddc6a9dba8f8336af666aaba151c6839b8353a2acdd53a"
+
+[[files]]
+file = "mods/Server-Translations-2.0.0+1.20.jar"
+hash = "d09e88745daff35bfaecc2bcc806036f42bf96d3d508f74fad23b531aed45a3c"
 
 [[files]]
 file = "mods/Structory_1.20.2_v1.3.4.jar"
