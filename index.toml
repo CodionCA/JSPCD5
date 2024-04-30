@@ -2284,9 +2284,8 @@ hash = "9946ebce096c14d71c77971814a855c0e5e89bafcecffd4378bd9f63f5e10217"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "fbee59f2fe35831d6d35e790da2834ed803831b27d39e31e1528f11e28b1368d"
-metafile = true
+file = "mods/plasmovoice-fabric-1.20.1-2.0.9.jar"
+hash = "5a36847c141ef93d59a7e7bd69007e2b8e5ecb3a8781b1dbbfb30c53a55b90c4"
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
@@ -2405,6 +2404,10 @@ metafile = true
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "96ef70508056cb64e146ebba5d558ca56f356fe80007681ddf11ddf338f4edd4"
 metafile = true
+
+[[files]]
+file = "mods/spark-1.10.53-fabric.jar"
+hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
