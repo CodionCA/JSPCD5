@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "02ac0922213428cbe3a89bb96bd4b2eeb48c4cb6a0d2d61ae26c7c12aecaac88"
-
-[[files]]
-file = "REFRESH.bat"
-hash = "ff44a16b83112ffb0f91717a9a37e3ca4338b68aa4a6661f183ce35fef718c84"
-
-[[files]]
-file = "SERVE.bat"
-hash = "e29d92762100c335025db765a6b10f3a75be9b595640c323404a75db5aa8a4b8"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "ea7451d8bf8033ccae1c3d81e1ca0bcf3ae113777bbf1f9bcea38b1ca83b6651"
 
@@ -39,10 +27,6 @@ hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 [[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/advancementplaques-common.toml"
@@ -1613,10 +1597,6 @@ file = "emi.json"
 hash = "7ba434f205fe99c64bfd519fe548c8543c1ffbdacc1c43cb84ae20fdc711f148"
 
 [[files]]
-file = "gitignore.txt"
-hash = "7a4a93bc3ec9df85b5f1fb6eab6d4ab7491eb2f708e4163c9bdf69e8a87e5f45"
-
-[[files]]
 file = "mods/AdvancementPlaques-1.20.1-fabric-1.4.11.jar"
 hash = "a2397a6596cf52c5244b4485ffb3d679eb3953a5dcb3cac171c7b59b6d3767ff"
 
@@ -2323,10 +2303,6 @@ hash = "baca132646cc9f2b43c67418decf3a5b8eb9dd379224e326514ebd1883fc6e4e"
 [[files]]
 file = "options.txt"
 hash = "7ca304b1a2a33c6444dc490d3011b54b92fbaacc0aff3551a1bd82c38b6a0877"
-
-[[files]]
-file = "packwizignore.txt"
-hash = "38d2ffb1c151db7c0519c380eb9b305a1f7dc4baed9034132a0025dcbe608a37"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.zip"
