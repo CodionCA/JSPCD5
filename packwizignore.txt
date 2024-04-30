@@ -8,3 +8,5 @@ REFRESH.bat
 _config.yml
 .nojekyll
 SERVE.bat
+.github
+static.yml
