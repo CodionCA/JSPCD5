@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "02ac0922213428cbe3a89bb96bd4b2eeb48c4cb6a0d2d61ae26c7c12aecaac88"
+
+[[files]]
 file = "REFRESH.bat"
 hash = "ff44a16b83112ffb0f91717a9a37e3ca4338b68aa4a6661f183ce35fef718c84"
 
@@ -1609,6 +1613,10 @@ file = "emi.json"
 hash = "7ba434f205fe99c64bfd519fe548c8543c1ffbdacc1c43cb84ae20fdc711f148"
 
 [[files]]
+file = "gitignore.txt"
+hash = "7a4a93bc3ec9df85b5f1fb6eab6d4ab7491eb2f708e4163c9bdf69e8a87e5f45"
+
+[[files]]
 file = "mods/AdvancementPlaques-1.20.1-fabric-1.4.11.jar"
 hash = "a2397a6596cf52c5244b4485ffb3d679eb3953a5dcb3cac171c7b59b6d3767ff"
 
@@ -1989,6 +1997,10 @@ file = "mods/fallingleaves-1.15.1+1.20.1.jar"
 hash = "a87c7c6b798172a10074649fa4d0f8b24c8f4f11a5aff3f18593b260fa8505b8"
 
 [[files]]
+file = "mods/fancymenu_fabric_3.1.7_MC_1.20.1.jar"
+hash = "66aa39832d1365cd09555897196477dc9d6a09c34b67b4ee31b8a88582a5e5c5"
+
+[[files]]
 file = "mods/fastquit-3.0.0+1.20+.jar"
 hash = "6c07d505a7c7435c9813edf68103c8320e37c20daf95418d508aac2681212a78"
 
@@ -2311,6 +2323,10 @@ hash = "baca132646cc9f2b43c67418decf3a5b8eb9dd379224e326514ebd1883fc6e4e"
 [[files]]
 file = "options.txt"
 hash = "7ca304b1a2a33c6444dc490d3011b54b92fbaacc0aff3551a1bd82c38b6a0877"
+
+[[files]]
+file = "packwizignore.txt"
+hash = "a8b2aaf1b4c5cb0d4245bb7e88f6d77350d7bbbb8cf654cf680bdd5853e80b68"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.zip"
