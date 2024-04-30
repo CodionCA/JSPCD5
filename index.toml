@@ -1613,6 +1613,10 @@ file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
 hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
 
 [[files]]
+file = "mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
+hash = "91e685925fff2fcaa51a73202a6edc9d2435f76552a8d97af88942c37643fd86"
+
+[[files]]
 file = "mods/HorseBuff-1.20-2.1.2.jar"
 hash = "96fce1ec8bc95c34304c9a8445e7bca0f4ab6c27c2ead63ae2f019f1e432102d"
 
@@ -1643,6 +1647,10 @@ hash = "d09e88745daff35bfaecc2bcc806036f42bf96d3d508f74fad23b531aed45a3c"
 [[files]]
 file = "mods/Structory_1.20.2_v1.3.4.jar"
 hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
+
+[[files]]
+file = "mods/TeamCapes-fabric-1.0.0.jar"
+hash = "7c60500db63609e02edd8f9be65934d3a65221d31677e18d09e8d3cff6f5fa98"
 
 [[files]]
 file = "mods/TerraBlender-fabric-1.20.1-3.0.1.4.jar"
@@ -1963,6 +1971,10 @@ metafile = true
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
 metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras-1.2-BETA+1.20.jar"
+hash = "5450ddd6a14671a1ae629de00b803b243ef9a326f7b28963714b82649eb1cbe0"
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
@@ -2317,6 +2329,10 @@ file = "mods/pv-addon-whisper-1.0.0.jar"
 hash = "c4ffb0da2a292e1c03b72e68c9dfe40ba74714afdd592fcee4c1170f39ccb1b9"
 
 [[files]]
+file = "mods/pvpflag-1.3.0+1.20.1.jar"
+hash = "1a70de64878b48b1f7fbf23c8c5a341e8f45bf9bc6c32ea348c7801bdea81496"
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
@@ -2347,6 +2363,10 @@ hash = "47811f1ce283a8f1ed4bffef4d64881a497e709cf1e7b76f908fb43b73f80f8c"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud-fabric-1.20.1-1.7.19.jar"
+hash = "6ecb5db6108a78a6ad8da17d68b6f2e8e0b6db77aa127003a35b7c6613c3e2a2"
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "4f6f15b3a17ed28772fe45a7cb15783a37428b259d2461564c9046b5a3540e25"
 metafile = true
@@ -2365,6 +2385,10 @@ metafile = true
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "db5a1c7f46a9e397a88fb49ed9856ead85dc22b40611b614b71d1fe15e09c770"
 metafile = true
+
+[[files]]
+file = "mods/simplehats-fabric-1.20.1-0.2.4.jar"
+hash = "c39e5e8d1522b66edb82a93a00895a7dfe37492c074b09bc0e1272b431e1e51c"
 
 [[files]]
 file = "mods/sit-fabric.pw.toml"
@@ -2413,6 +2437,10 @@ metafile = true
 file = "mods/spell-power.pw.toml"
 hash = "444b11039c83ad16ef16a509bb8e43c97382ac04dcebcc8930c99d02c93a2914"
 metafile = true
+
+[[files]]
+file = "mods/spoiledz-1.0.10.jar"
+hash = "ff1c15de610ffc3b6cf4e77be4abadacbfa3b5d073f135188f3df5c9d7aacc6f"
 
 [[files]]
 file = "mods/starlight.pw.toml"
