@@ -2576,12 +2576,16 @@ file = "resourcepacks/Stylized Overlay`s.zip"
 hash = "f7fe58d475c776a40e73b6f3b9ca5e815146a7b52fb23d1eee2d9f176616fc80"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r958709.zip"
-hash = "8e558f99b999450fdeebf83de1ed295cc908ec97f8ca5141df8319aa07e9ef7e"
+file = "resourcepacks/VanillaTweaks_r401666.zip"
+hash = "6a6a143a612072718c95343e5c983b0e589b912182b5938fd4f9c39511429f3d"
 
 [[files]]
 file = "resourcepacks/[1.4] Enhanced Boss Bars.zip"
 hash = "8d64c06b15633fdbb9a500693b5cca63ab62299927eb5b34bbf459f4fa143a4a"
+
+[[files]]
+file = "resourcepacks/[2.1] Codion's Personal Tweaks.zip"
+hash = "261d67d1ea408ca9d1afd1dc5411a2143bc0cb61abb97f365d6581d23f7dd741"
 
 [[files]]
 file = "resourcepacks/fat-cat-1-20.zip"
