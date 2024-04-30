@@ -2317,11 +2317,6 @@ file = "mods/pv-addon-whisper-1.0.0.jar"
 hash = "c4ffb0da2a292e1c03b72e68c9dfe40ba74714afdd592fcee4c1170f39ccb1b9"
 
 [[files]]
-file = "mods/raknetify.pw.toml"
-hash = "3d78132da33d7412dfd84cdbe1685f1d10493661fc1c4abb3d16506e4b40e4f5"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
