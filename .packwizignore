@@ -10,3 +10,4 @@ _config.yml
 SERVE.bat
 .github
 static.yml
+.override
