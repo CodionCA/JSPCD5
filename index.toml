@@ -381,10 +381,6 @@ file = "config/fancymenu/customization/modconfig_layout.txt"
 hash = "e8d1097320561dfad94f56719aa8797f0b3534e2ea62e6b9185bb309d61e6b5d"
 
 [[files]]
-file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "49a1f92a62992a3c12df3322fcdef2facc13f0b30d5a9216990b3148919a07b2"
-
-[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
 hash = "416b2f4fa746f0b2501451cf4798540c5c538c55d5f5db7260ca51b99d934dd4"
 
