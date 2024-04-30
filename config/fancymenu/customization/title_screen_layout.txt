@@ -70,7 +70,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 61254dc0-bcc6-4866-831f-32ab43b2fa35-1714456073094
-  [executable_action_instance:4424bd65-a01d-4ed2-aaa0-82fde59dd5a7-1714499305432][action_type:joinserver] = mod.codion.ca
+  [executable_action_instance:4424bd65-a01d-4ed2-aaa0-82fde59dd5a7-1714499305432][action_type:joinserver] = cname.codion.ca
   [executable_block:61254dc0-bcc6-4866-831f-32ab43b2fa35-1714456073094][type:generic] = [executables:4424bd65-a01d-4ed2-aaa0-82fde59dd5a7-1714499305432;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
@@ -78,7 +78,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = If it says offline try joining anyway
-  label = Join {"placeholder":"serverstatus","values":{"ip":"mod.codion.ca"}}
+  label = Join {"placeholder":"serverstatus","values":{"ip":"cname.codion.ca"}}
   navigatable = true
   element_type = custom_button
   instance_identifier = ba3d8c0f-c0e8-43d0-b715-0616310c0712-1714456073094

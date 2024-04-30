@@ -386,7 +386,7 @@ hash = "49a1f92a62992a3c12df3322fcdef2facc13f0b30d5a9216990b3148919a07b2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "32215af3538e2d3b86af4c4712fd3707c43275c42353ab0b9f83f5af75bf50da"
+hash = "416b2f4fa746f0b2501451cf4798540c5c538c55d5f5db7260ca51b99d934dd4"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -2593,7 +2593,7 @@ hash = "97b5063ba22df24ab7effc2896005ddc0ee93a1ef4c08e89c71d7162e4270133"
 
 [[files]]
 file = "servers.dat"
-hash = "bd9d63e6f678cd42850ef40268cacc72be6a9f42699898bf292efa2b09358894"
+hash = "fac8dfb74451dbf1c8d6cd757b2d6274fff6096587893bf8986df2187b291704"
 
 [[files]]
 file = "shaderpacks/Bliss-Shader-main.zip"
