@@ -1,0 +1,10 @@
+.git/**
+.gitattributes
+.gitignore
+.github/workflows 
+README.md
+packwiz.exe
+REFRESH.bat
+_config.yml
+.nojekyll
+SERVE.bat
