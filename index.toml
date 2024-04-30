@@ -357,12 +357,20 @@ file = "config/fallingtree.json"
 hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
 
 [[files]]
+file = "config/fancymenu/assets/background.png"
+hash = "cb6fdaabe655cf1dd75b6bdf0529bca4f41e092a6806926ae174bfa37a19ea49"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "70ce55ae27f6892189afb4a288a647da13bf827579dbbe6d2dfe1bba39ded916"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ac5e582b1192eae6bf52fb525130a907db55707acaaa455f2723d2219212dc6d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "c99e682e06a3a9ffc1c709365b66bd9c2ebc722813fb141c9311284455cc4ae1"
+hash = "fb2fcf0c0557f5cc23ea6f73640eda93bf57a87f46754f0a74c2f26296a8b702"
 
 [[files]]
 file = "config/fancymenu/customization/modconfig_layout.txt"
@@ -374,7 +382,7 @@ hash = "49a1f92a62992a3c12df3322fcdef2facc13f0b30d5a9216990b3148919a07b2"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "cd230cf3bcc99cc7362e7f29420f24b0daab0f095395efa8fcaff7df2af372e6"
+hash = "da63c24ea6a156aad5352c80d2b48cada5852ed15bd557eab93a9ab93465eb46"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
