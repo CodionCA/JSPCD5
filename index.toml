@@ -1749,6 +1749,14 @@ file = "mods/betterz-1.0.jar"
 hash = "7f8435e3f46cf23f1736d229dc7eff50f90e052d180a745236bf4207d5325482"
 
 [[files]]
+file = "mods/blossom-lib-2.5.4+1.20.jar"
+hash = "fe2d4dcc79224737074797cae732d2b1c776a04ab63e4253fa902fa07e065859"
+
+[[files]]
+file = "mods/blossom-pvp-2.0.1+1.20.jar"
+hash = "0b37197ec9e6b3a212d874574db95ce264f6edc2e257805d14d479af750b4c8c"
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "6f894b7900db4cc7add8d8e0c2ccf5ba913bbb352ca1ce88e9dc51bd274e438c"
 metafile = true
