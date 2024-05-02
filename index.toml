@@ -1981,11 +1981,6 @@ hash = "aa83ba5af7931741e58c8d5582b9aee5674446ffc5ead596983ace135e2ec298"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "949bd1d3a79e15a089db4ade5d63edacf53b71e1ac7978826b154f59aadf077f"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "18a93c46a7dc87bece19aaebbecce906317b0d5d10253677263ee839d2face52"
 metafile = true
@@ -2127,18 +2122,8 @@ hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
 metafile = true
 
 [[files]]
-file = "mods/infinite-music-fabric.pw.toml"
-hash = "0836eb11d8b40d41fd993b9461f586e4b6f22d56d04d632e796bc70c6484605f"
-metafile = true
-
-[[files]]
 file = "mods/inmis.pw.toml"
 hash = "3b5d812cb326288def7f87a06dddbc4ba987cea771d1708a3680f8201865c0be"
-metafile = true
-
-[[files]]
-file = "mods/inmisaddon.pw.toml"
-hash = "ccea3ee507e1aec9e9bb73850c5ec02c6d767d4d2ceb18b5a8c895141e156a57"
 metafile = true
 
 [[files]]
@@ -2323,11 +2308,6 @@ hash = "b67abea74ec9d9135ee0864c53f81a1b74ab7c2e16288eb133297fac55a9a69b"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "04a8238f5a69a74bfa9cfbce75efbe01cfb41e5e83c123076ff868ff2e00f685"
-metafile = true
-
-[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "7aac5fffbd7cf3d2da562e5f3b71e0c7d9722c8ed82172fead880d4536a22c05"
 metafile = true
@@ -2494,11 +2474,6 @@ hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "db035041e13b5f951ecca0c3d17ba92639185d4967d2e7c7e4b451a9e20bc9a3"
-metafile = true
-
-[[files]]
 file = "mods/soul-fired.pw.toml"
 hash = "98ba24187f9a3ee47eaf0c88cfae1e5dd2d9e84d5f6c4adc4afeea3c8402b48b"
 metafile = true
@@ -2524,11 +2499,6 @@ hash = "444b11039c83ad16ef16a509bb8e43c97382ac04dcebcc8930c99d02c93a2914"
 metafile = true
 
 [[files]]
-file = "mods/spoiledz.pw.toml"
-hash = "b2c4fd505a0585d8e04a8117faca56734a3e0cfcc925da147b89ca4c2d931759"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
 metafile = true
@@ -2536,11 +2506,6 @@ metafile = true
 [[files]]
 file = "mods/stonecobbling-1.jar"
 hash = "e2efe3c7c532acd869727aabab3a617ce17c02b36310ca0a618d55d82a4d78a0"
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "653307d3f6179063003abff7fd4688d7ba3008ea0396611a6eafb8ea615b861b"
-metafile = true
 
 [[files]]
 file = "mods/stutterfix-mc1.20.1-0.2.0.jar"
