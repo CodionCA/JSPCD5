@@ -1585,8 +1585,8 @@ file = "config/zoomify.json"
 hash = "09c683497ac1c935faf6046d9cd5ac3a7de228b4fa282f84686c7ec2c5365ae7"
 
 [[files]]
-file = "datapacks/New-Desert-Temple.zip"
-hash = "2878b713822a527d985b0796355de39bd2b561fbf5f67dc261ae43db0f1f0617"
+file = "datapacks/LimitedCtovBuildings-0.1.2+sha.c146877.zip"
+hash = "837e4d3c9c69a795143cc129ae99c53dff9d282e567a2faad5f846c9763d3d27"
 
 [[files]]
 file = "datapacks/New-End-Cities.zip"
@@ -1599,6 +1599,42 @@ hash = "142ba317a5393dbe78d1415d6b0c3758d2050c93183b78b6a9f46c097e94a74f"
 [[files]]
 file = "datapacks/New-Ruined-Portals.zip"
 hash = "0fa71cb631d9f3a5f03f7e74d1f5a49424d193ca9fe034f5ac647eae27b26525"
+
+[[files]]
+file = "datapacks/ctov-wizards-add-on-v2-1.zip"
+hash = "c263293cbc757d7445d21bfa3879a17050839a0178a8e32a4874629652e87984"
+
+[[files]]
+file = "datapacks/daycounter/data/codion/functions/load.mcfunction"
+hash = "437f28907861af4def26af2fccf57547635105d8c5a96688df0b8e5dc422dc6a"
+
+[[files]]
+file = "datapacks/daycounter/data/codion/functions/pvp.mcfunction"
+hash = "35926b6b8723893bf879342913f3c74e417bd08a5dba3333d1b7bbda14c41a9a"
+
+[[files]]
+file = "datapacks/daycounter/data/codion/functions/reload.mcfunction"
+hash = "86160d95a4bbe870b0e6f80a8762b2ee3e1cbb8be2efae69a005054b824de649"
+
+[[files]]
+file = "datapacks/daycounter/data/codion/functions/tick.mcfunction"
+hash = "53d0f804bc1fdc9c194bcdd0a7b23611947dc5c3826695e97d388de0edf0ac9e"
+
+[[files]]
+file = "datapacks/daycounter/data/minecraft/tags/functions/load.json"
+hash = "d65e05d84bfbdbbd0909b3229d6fc41b3ff66cbb31dec37d00510ec1650e4eca"
+
+[[files]]
+file = "datapacks/daycounter/data/minecraft/tags/functions/tick.json"
+hash = "4082a0ba9db051beefb56f1546e5d3e334b4d84249d041b2704e17ed0e9b6df9"
+
+[[files]]
+file = "datapacks/daycounter/pack.mcmeta"
+hash = "1309c75ab896ed5fb45dc00f38e3877cb2ae64ea460a5753a4c9600db2cf23f4"
+
+[[files]]
+file = "datapacks/vanillarefresh-v1.4.19h_1.20.x.zip"
+hash = "d54d7b1cca251512366c44030eb069fd6eccc5b3ef0b074750f784f59db88928"
 
 [[files]]
 file = "emi.json"
@@ -1633,6 +1669,10 @@ file = "mods/Necronomicon-Fabric-1.4.2.jar"
 hash = "e9672731e310e8d93813f06fed60e8d3c4877d782a99c284d7b1100bb38503b8"
 
 [[files]]
+file = "mods/Patched-fabric-3.2.3+1.20.1.jar"
+hash = "a16ce6cba57fceddb09102861fcbabef68c8957a4b52e866b94f58fe20af75af"
+
+[[files]]
 file = "mods/RecipeCooldown-1.0.0.jar"
 hash = "44d18ff65f42d7abc3103992e0611b8941ba0e8affdb65c7ee63d5ac230144d3"
 
@@ -1663,6 +1703,30 @@ hash = "5bc332fbe0a24868df3a5c3a129c78a1b89cdb24e2f382bebda78747749ebe93"
 [[files]]
 file = "mods/Treeplacer Terralith Addon v1.1.0-1.20.jar"
 hash = "1c525bd53202a9f3fce4689f59e8c7d38478a20bb29eb17eaeb274c0c194f9ed"
+
+[[files]]
+file = "mods/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+hash = "790e31c2a19194b81ca0dc134694a5b9f935c5c19c50aadcfb4f90a613c19bff"
+
+[[files]]
+file = "mods/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar"
+hash = "93e0e537fcf20b18c0ea340e6d4f2c20225a29c45252b9cf78e205107ab4f03a"
+
+[[files]]
+file = "mods/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+hash = "3013484bceee72540a1eb76d403a0c36db0fd6d99a1e1b5a398b37ca50f27fb2"
+
+[[files]]
+file = "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+hash = "122b74d59629bf755663263a4ce43e58a5d13b74e67bea332d44a9bedb51b74a"
+
+[[files]]
+file = "mods/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
+hash = "7a1a22be9503bb7556e86eb4471a50acd618fc88590d54164d3599c9fdba94e8"
+
+[[files]]
+file = "mods/YungsExtras-1.20-Fabric-4.0.3.jar"
+hash = "1765d0885e8ebe530ae81f2b2ae3d6d93c842bb04e03bdbde00f2b45c918c97a"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
@@ -1869,6 +1933,18 @@ hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
 
 [[files]]
+file = "mods/ctov-fabric-3.4.3.jar"
+hash = "13a7c8e1b54262f03f06a26625032f85d4736aa9ca03e8b6ca3380f2cef4b6b6"
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat-2.1.jar"
+hash = "702ce649fb80e450ea8867359e90a044a97ec19e064c5ea39d7bcd60f2aad8d9"
+
+[[files]]
+file = "mods/ctov-paladins-n-priests-compat-1.0.jar"
+hash = "baa9bc91c718d9860016882ed20ccecc9758a682fe646830f2309a28d0116794"
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "09af3f7efd177b0dbb21db66ba27fa8af09128e74d3d0a77a1ef47495a8054fa"
 metafile = true
@@ -2047,6 +2123,10 @@ metafile = true
 [[files]]
 file = "mods/geckolib-fabric-1.20.1-4.4.4.jar"
 hash = "29e535821b0f695c29b2a680d9828b04674f3862a5d65155ee7e053cbedbf057"
+
+[[files]]
+file = "mods/geophilic-v2.2.0-mc1.20u1.20.2.jar"
+hash = "afacf02ce17dc680cd1a17712ee9d24a40efeb96c6e32ec8ddfeb0dcc58a4ad2"
 
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
