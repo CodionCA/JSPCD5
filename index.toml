@@ -1605,34 +1605,6 @@ file = "datapacks/ctov-wizards-add-on-v2-1.zip"
 hash = "c263293cbc757d7445d21bfa3879a17050839a0178a8e32a4874629652e87984"
 
 [[files]]
-file = "datapacks/daycounter/data/codion/functions/load.mcfunction"
-hash = "437f28907861af4def26af2fccf57547635105d8c5a96688df0b8e5dc422dc6a"
-
-[[files]]
-file = "datapacks/daycounter/data/codion/functions/pvp.mcfunction"
-hash = "35926b6b8723893bf879342913f3c74e417bd08a5dba3333d1b7bbda14c41a9a"
-
-[[files]]
-file = "datapacks/daycounter/data/codion/functions/reload.mcfunction"
-hash = "86160d95a4bbe870b0e6f80a8762b2ee3e1cbb8be2efae69a005054b824de649"
-
-[[files]]
-file = "datapacks/daycounter/data/codion/functions/tick.mcfunction"
-hash = "53d0f804bc1fdc9c194bcdd0a7b23611947dc5c3826695e97d388de0edf0ac9e"
-
-[[files]]
-file = "datapacks/daycounter/data/minecraft/tags/functions/load.json"
-hash = "d65e05d84bfbdbbd0909b3229d6fc41b3ff66cbb31dec37d00510ec1650e4eca"
-
-[[files]]
-file = "datapacks/daycounter/data/minecraft/tags/functions/tick.json"
-hash = "4082a0ba9db051beefb56f1546e5d3e334b4d84249d041b2704e17ed0e9b6df9"
-
-[[files]]
-file = "datapacks/daycounter/pack.mcmeta"
-hash = "1309c75ab896ed5fb45dc00f38e3877cb2ae64ea460a5753a4c9600db2cf23f4"
-
-[[files]]
 file = "datapacks/vanillarefresh-v1.4.19h_1.20.x.zip"
 hash = "d54d7b1cca251512366c44030eb069fd6eccc5b3ef0b074750f784f59db88928"
 
