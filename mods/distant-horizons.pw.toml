@@ -1,8 +1,7 @@
 name = "Distant-Horizons"
-filename = "DistantHorizons-fabric-2.0.3-a-dev-1.20.1.jar"
-side = "client"
+filename = "DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
 
 [download]
 url = "https://codionca.github.io/JSPCD5/.override/DistantHorizons-fabric-2.0.4-a-dev-1.20.1.jar"
 hash-format = "sha256"
-hash = "98ac6bd5627b4b196b22d530ee60a07e51b86723ee857088e0add3354449db52"
+hash = "0f4f1f8993e06cb8fd143dde0271ee92fc11b2f51b944982e265f23646a86409"

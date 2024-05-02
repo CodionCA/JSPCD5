@@ -1887,10 +1887,6 @@ hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
-file = "mods/dashloader-5.0.0-beta.2+1.20.0.jar"
-hash = "ab8aec7bc8d9139eb6c8ca3fa89f83e25833c2cc62485c91f5cb322d57d32e13"
-
-[[files]]
 file = "mods/data-loader-updated.pw.toml"
 hash = "4e305ed74b3975cb4bba455be9dd524e40441aeda06bb3df128eeafa59e0c222"
 metafile = true
@@ -1915,7 +1911,7 @@ hash = "80489485902dd28a43a54a7f29b979766a01e0f4e68ebfe915627fb36c1905ff"
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "26ffe28a880136c42bfce1dfea3355aa3514ca4738337e885ede7a5c58e4a822"
+hash = "5a66bd31141df13694529b45931e5893584b7cd96de5c6c9054df35f36b0c31f"
 metafile = true
 
 [[files]]
