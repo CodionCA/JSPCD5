@@ -2337,10 +2337,6 @@ file = "mods/pv-addon-whisper-1.0.0.jar"
 hash = "c4ffb0da2a292e1c03b72e68c9dfe40ba74714afdd592fcee4c1170f39ccb1b9"
 
 [[files]]
-file = "mods/pvpflag-1.3.0+1.20.1.jar"
-hash = "1a70de64878b48b1f7fbf23c8c5a341e8f45bf9bc6c32ea348c7801bdea81496"
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
