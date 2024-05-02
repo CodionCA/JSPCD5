@@ -2322,11 +2322,6 @@ hash = "8d75136c2b85d8455d69bb1b7b9a141d8289e22a9047e31487c8f7a238582a8b"
 metafile = true
 
 [[files]]
-file = "mods/ordered-player-list.pw.toml"
-hash = "1a0822791f16d41e8488afc747ef6782a41dbd15ff65e9df3ba934e93d94d95c"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
