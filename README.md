@@ -1,7 +1,6 @@
 # JSPCD5 Modpack
 
-Welcome to the JSPCD5 Modpack - Made for a private server
-Extension/Heavily modified version of Better Adventures+
+Welcome to the JSPCD5 Modpack - Made for a private server - Extension/Heavily modified version of Better Adventures+
 
 ## Installation
 
