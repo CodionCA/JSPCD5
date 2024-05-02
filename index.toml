@@ -1887,6 +1887,10 @@ hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
+file = "mods/dashloader-5.0.0-beta.2+1.20.0.jar"
+hash = "ab8aec7bc8d9139eb6c8ca3fa89f83e25833c2cc62485c91f5cb322d57d32e13"
+
+[[files]]
 file = "mods/data-loader-updated.pw.toml"
 hash = "4e305ed74b3975cb4bba455be9dd524e40441aeda06bb3df128eeafa59e0c222"
 metafile = true
@@ -1911,7 +1915,7 @@ hash = "80489485902dd28a43a54a7f29b979766a01e0f4e68ebfe915627fb36c1905ff"
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "c2b403542b4093d0f254df6605557bd70495293fc8d04060fc22436e57949d02"
+hash = "26ffe28a880136c42bfce1dfea3355aa3514ca4738337e885ede7a5c58e4a822"
 metafile = true
 
 [[files]]
@@ -1977,6 +1981,10 @@ metafile = true
 [[files]]
 file = "mods/extra-sounds-2.3.11.20.1lonefelidae16-build.1.jar"
 hash = "253398850f0a85936de6b2cbcc7b889d4a84433cee5fb782ca3b205689183d4f"
+
+[[files]]
+file = "mods/fabric-api-0.92.0+1.20.1.jar"
+hash = "d41b4489d43afff0abda28ab5654739303d0e46a2f10181cf961089f8f2ec1da"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -2102,9 +2110,8 @@ hash = "ac1e67e8fd33b13ed99c8aed964ab2501d8a2092f01c22b901e43b6824b2bc6f"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
-metafile = true
+file = "mods/indium-1.0.30+mc1.20.4.jar"
+hash = "995ae1021d370d3b5abd6b805db488f93d6678874ecaa0816d41f15329dffe30"
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
@@ -2126,9 +2133,8 @@ file = "mods/inventorymanagement-1.3.1+1.20.jar"
 hash = "0f41dc90fd1ade8d5d4c937e556283c95ddcddf94821e281711f1e179deb81d0"
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "017c5e0517c68941f3d996b94f3d5771f5af764d8e918623bac12a6e3b0012b7"
-metafile = true
+file = "mods/iris-1.7.0+mc1.20.1.jar"
+hash = "a2ca9ca56265abd5f44a001e437bd4c9f3abed7cd8dae058208dd1c93488e131"
 
 [[files]]
 file = "mods/item-borders-fabric.pw.toml"
@@ -2469,9 +2475,8 @@ hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
-metafile = true
+file = "mods/sodium-fabric-0.5.8+mc1.20.1.jar"
+hash = "cb19c646b6bc09ae75cb438c44d13a3ef3625ef0e2fb8fbc83168746df7d0291"
 
 [[files]]
 file = "mods/soul-fired.pw.toml"
@@ -2618,10 +2623,6 @@ metafile = true
 file = "mods/wizards.pw.toml"
 hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
 metafile = true
-
-[[files]]
-file = "mods/wizardz-1.0.jar"
-hash = "191eeefc6a5d2ad1cfd444f21d726ef01594a9e74a18fb96cc97b2fadbd7ce0a"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
