@@ -813,14 +813,6 @@ file = "config/plasmovoice/server/voice_mutes.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "config/presencefootsteps/updater.json"
-hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
-
-[[files]]
-file = "config/presencefootsteps/userconfig.json"
-hash = "526d32a2aff48b50717f3ad08d4aa5f3d1c9c9a62031af966158cbf8dcd11492"
-
-[[files]]
 file = "config/pv-addon-whisper/config.toml"
 hash = "699790360757a563d86af5e0aad678898151b33d12c950797483e45347d90a12"
 
@@ -2697,7 +2689,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2d4cc40b31c8bbe67f9dcd0c4068962470d7f86bef4ecfe90455627883fc1493"
+hash = "331f013c371dc05a8bc87a6e3defb862952f7ac46a527c7786832f311a4707bd"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.zip"
