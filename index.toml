@@ -1936,7 +1936,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9ef3306021058c7f20b557d4ec95181e1548b0f2a89ba47373a9d731477c0c41"
+hash = "01075a17ec6a6d7b62dcc16ddededd161679b0ffebdae310401d4a579f1d75db"
 metafile = true
 
 [[files]]
@@ -1950,13 +1950,23 @@ hash = "7ad62a2209024addb96d707deb7ed08d843e133a6b0636611a651e8c515ea508"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7be72508e6f21a77ed8d14b2c93c2b12e61f6bff92e9ae03cbb0b656618dbbfb"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "aa83ba5af7931741e58c8d5582b9aee5674446ffc5ead596983ace135e2ec298"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "18a93c46a7dc87bece19aaebbecce906317b0d5d10253677263ee839d2face52"
+hash = "75166a15f99c4e74da53e645c341585119a0996f2a916a76b149603070cb95c6"
 metafile = true
 
 [[files]]
@@ -2024,7 +2034,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "d1798156d503f5bfbcece7b5f07453b8d3d1b191461d042b874a6140c1c2970d"
+hash = "29eda1376700d6435acb68c1cb55c06c83af86bbb924b9c7b1697f25888a0d77"
 metafile = true
 
 [[files]]
@@ -2082,7 +2092,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c12773e5fa5fb122f82db00c1073517af13c44617bd9dbc487d507d732d32df4"
+hash = "86cdc90af8e0def914b09d450775470d9984ca3644f60bf81d6dd093807d9f84"
 metafile = true
 
 [[files]]
@@ -2203,7 +2213,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr-fabric.pw.toml"
-hash = "20cc73b0a1ed8d73d89bdaa27086f8dfeea5432930e1e18014b154a79442f559"
+hash = "2beeb497828d72467d5d29dfc9567e06c63c6f1ddf54cb42b7d6a3babd603e0f"
 metafile = true
 
 [[files]]
@@ -2417,7 +2427,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "61bece982f9106ace0e56ef43b9b10b08b95e2e6596bc458a839ca7a704a7c36"
+hash = "1f0bec3ad99e321884a4e7af58399a99982f00c3eb647b80d371525eede4b725"
 metafile = true
 
 [[files]]
