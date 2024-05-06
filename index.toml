@@ -1942,11 +1942,6 @@ hash = "7be72508e6f21a77ed8d14b2c93c2b12e61f6bff92e9ae03cbb0b656618dbbfb"
 metafile = true
 
 [[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "aa83ba5af7931741e58c8d5582b9aee5674446ffc5ead596983ace135e2ec298"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
