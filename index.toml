@@ -1731,11 +1731,6 @@ hash = "6f894b7900db4cc7add8d8e0c2ccf5ba913bbb352ca1ce88e9dc51bd274e438c"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "d7255889c832072601ab0a3878f5cbeb056d3bc903146074e22c5850433ee747"
-metafile = true
-
-[[files]]
 file = "mods/bosses-of-mass-destruction.pw.toml"
 hash = "62a06523495d2fe4423080876dbcd631378cf805c20a64c63f3768027b4f8c15"
 metafile = true
@@ -2097,9 +2092,8 @@ hash = "ac1e67e8fd33b13ed99c8aed964ab2501d8a2092f01c22b901e43b6824b2bc6f"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
-metafile = true
+file = "mods/indium-1.0.30+mc1.20.4.jar"
+hash = "995ae1021d370d3b5abd6b805db488f93d6678874ecaa0816d41f15329dffe30"
 
 [[files]]
 file = "mods/inertiaanticheat.pw.toml"
@@ -2132,9 +2126,8 @@ hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "017c5e0517c68941f3d996b94f3d5771f5af764d8e918623bac12a6e3b0012b7"
-metafile = true
+file = "mods/iris-1.7.0+mc1.20.1.jar"
+hash = "a2ca9ca56265abd5f44a001e437bd4c9f3abed7cd8dae058208dd1c93488e131"
 
 [[files]]
 file = "mods/item-borders-fabric.pw.toml"
@@ -2446,8 +2439,8 @@ file = "mods/remove-terralith-intro-message-1.0.jar"
 hash = "736eb249103ebba9a90fe313731c67d7817b37263ad74b3400b5b4084cae7cdf"
 
 [[files]]
-file = "mods/replay-mod-fabric-and-forge.pw.toml"
-hash = "360ab1451b1aa12c1f628ecc40ef751841babce789f8c49678976d5a29bca228"
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "7014242c0a3b2a5982767fd5b2be75e963a0811170a0123f7f423b6afac17361"
 metafile = true
 
 [[files]]
@@ -2526,9 +2519,8 @@ hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
-metafile = true
+file = "mods/sodium-fabric-0.5.8+mc1.20.1.jar"
+hash = "cb19c646b6bc09ae75cb438c44d13a3ef3625ef0e2fb8fbc83168746df7d0291"
 
 [[files]]
 file = "mods/soul-fired.pw.toml"
@@ -2777,6 +2769,10 @@ hash = "331f013c371dc05a8bc87a6e3defb862952f7ac46a527c7786832f311a4707bd"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.zip"
 hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
+
+[[files]]
+file = "resourcepacks/JadeStardewValleyTheme.zip"
+hash = "8e19db47cf978237aa581ac434a110cebb23dd174502f88e436826c76232ee18"
 
 [[files]]
 file = "resourcepacks/Stylized Overlay`s.zip"
