@@ -1660,6 +1660,11 @@ hash = "45d8570e9c13f5265d9d833ba2431e982ab9cf2760e86c6d5fd62dd3c092e18c"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
 file = "mods/auditory-continued.pw.toml"
 hash = "45de2a871d5d91e30424619586cd9c91ca02fe873b9c24572e1547056b4e3729"
 metafile = true
@@ -1972,7 +1977,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -2339,6 +2344,11 @@ hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "4a25843fc3042ddcf14e4abbd3426d68a76a7e2fde9091db8c6bea295c04a67e"
+metafile = true
+
+[[files]]
 file = "mods/offline-player-teleport.pw.toml"
 hash = "8d75136c2b85d8455d69bb1b7b9a141d8289e22a9047e31487c8f7a238582a8b"
 metafile = true
@@ -2569,11 +2579,6 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "a9434882f6cd388eefcb74b86bbdc199f375f8420c7e01bcdd4b55d274931603"
-metafile = true
-
-[[files]]
-file = "mods/stutterfix.pw.toml"
-hash = "0174f372918ed7eb79d853c42943495b0d5d9bb6ab7326ca30f466dbc340d4ef"
 metafile = true
 
 [[files]]
