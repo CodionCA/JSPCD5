@@ -6,7 +6,7 @@ hash = "ea7451d8bf8033ccae1c3d81e1ca0bcf3ae113777bbf1f9bcea38b1ca83b6651"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "a15020f26b6e462696c3c57b3ed1e0ed094f1a39a64de8513d1ea73a5a0920d7"
+hash = "ab5364bfa04cf8ff4797d34d6e85c012ba31c8b685c5c2f7a97e1b9224ace50d"
 
 [[files]]
 file = "config/HorseBuff.toml"
@@ -2103,7 +2103,7 @@ metafile = true
 
 [[files]]
 file = "mods/inertiaanticheat.pw.toml"
-hash = "de7cbbebd18c1a609b0e37a30558f244826bd955eba2553e5b5107322ad243ca"
+hash = "468fb6af80a593ac8f15eaac3e0cb5c6638ee46bb99e02390b71528a8a523a39"
 metafile = true
 
 [[files]]

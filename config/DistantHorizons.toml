@@ -101,12 +101,6 @@ _version = 2
 			# Estimated average DTO read speed: 1.85 ms
 			# Estimated average DTO write speed: 9.46 ms
 			# 
-			# Z_STD 
-			# A good middle ground between speed and compression.
-			# Expected Compression Ratio: 0.21
-			# Estimated average DTO read speed: 11.78 ms
-			# Estimated average DTO write speed: 16.77 ms
-			# 
 			# LZMA2 
 			# Slow but very good compression.
 			# Expected Compression Ratio: 0.14
@@ -130,10 +124,10 @@ _version = 2
 			updateBranch = "NIGHTLY"
 			# Automatically check for updates on game launch?
 			# 
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			# Should Distant Horizons silently, automatically download and install new versions?
 			# 
-			enableSilentUpdates = true
+			enableSilentUpdates = false
 
 		[client.advanced.multiThreading]
 			# How many threads should be used when building LODs? 
@@ -252,7 +246,7 @@ _version = 2
 			# If enabled, the mod will log information about network operations. 
 			# This can be useful for debugging.
 			# 
-			logNetworkEvent = "LOG_WARNING_TO_CHAT_AND_INFO_TO_FILE"
+			logNetworkEvent = "LOG_WARNING_TO_CHAT_AND_FILE"
 			# If enabled, the mod will log information about the renderer buffer process. 
 			# This can be useful for debugging.
 			# 
@@ -802,5 +796,5 @@ _version = 2
 			# NAME_IP: Example: "Minecraft Server IP 192.168.1.40" 
 			# NAME_IP_PORT: Example: "Minecraft Server IP 192.168.1.40:25565"NAME_IP_PORT_MC_VERSION: Example: "Minecraft Server IP 192.168.1.40:25565 GameVersion 1.16.5"
 			# 
-			serverFolderNameMode = "NAME_ONLY"
+			serverFolderNameMode = "IP_ONLY"
 
