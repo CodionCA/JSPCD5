@@ -41,9 +41,9 @@
     "player_name_tag": true
   },
   "extra_settings": {
-    "overlay_corner": "TOP_LEFT",
+    "overlay_corner": "TOP_RIGHT",
     "text_contrast": "NONE",
-    "show_fps": true,
+    "show_fps": false,
     "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": false,
@@ -54,7 +54,7 @@
     "advancement_toast": true,
     "recipe_toast": true,
     "system_toast": true,
-    "tutorial_toast": true,
+    "tutorial_toast": false,
     "instant_sneak": false,
     "prevent_shaders": false,
     "steady_debug_hud": true,

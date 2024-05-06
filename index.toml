@@ -909,6 +909,10 @@ file = "config/repurposed_structures.json"
 hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "a035742807f23e0ca5fa5f816180afd13359a69cdfd608b7505d0431bb489304"
+
+[[files]]
 file = "config/rightclickharvest.json"
 hash = "56ef07ea78079bbd2e452724718d9816f1d69a4ddb4a111aaf6752cf6e9d5032"
 
@@ -942,7 +946,7 @@ hash = "6b4465c328bcf3b9661adb9238c9bacd1de94bd8fcbad75994ad230e5357f281"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "62ee427a27e5e321b89436f143019dcf077c7c27f020dab025c0a98b292a0e80"
+hash = "e7ce0c176848880993940e0cf56e6efa1d7a95a04554327aaa60f0c8854cf820"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -958,7 +962,7 @@ hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "d0bfb688b5ee267ec1f758414389013906473604b41a260853c690b4f28eb96a"
+hash = "497f2d7fb244d97b0eefee537efc0d163586acd4e4e5e877d005d6b7f6e9b55d"
 
 [[files]]
 file = "config/soulfired-common.toml"
@@ -2655,11 +2659,6 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal-forge.pw.toml"
 hash = "681b21065e248b254ea6f018037c51d743ff45d4f32db267d4a3e3642beb60d9"
-metafile = true
-
-[[files]]
-file = "mods/vanillatweaks.pw.toml"
-hash = "95d98e7fe10fc347ea6b9a9a7ac27580d97a8c1209b2fc36b99798d80743fc49"
 metafile = true
 
 [[files]]
