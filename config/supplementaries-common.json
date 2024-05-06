@@ -3,7 +3,7 @@
   "redstone": {
     "speaker_block": {
       "enabled": true,
-      "narrator_enabled": true,
+      "narrator_enabled": false,
       "max_text": 32,
       "range": 64
     },
@@ -28,12 +28,11 @@
     },
     "turn_table": {
       "enabled": true,
-      "rotate_entities": true,
-      "shuffle_containers": true
+      "rotate_entities": true
     },
     "pulley_block": {
       "enabled": true,
-      "mineshaft_elevator": 0.035
+      "mineshaft_elevator": 0.02
     },
     "dispenser_minecart": {
       "enabled": true,
@@ -44,10 +43,6 @@
       "spill_items": true,
       "fill_entities_below": false
     },
-    "crystal_display": {
-      "enabled": true,
-      "chaining": true
-    },
     "wind_vane": true,
     "clock_block": true,
     "redstone_illuminator": true,
@@ -56,6 +51,7 @@
     "gold_door": true,
     "gold_trapdoor": true,
     "lock_block": true,
+    "crystal_display": true,
     "relayer": true
   },
   "functional": {
@@ -103,27 +99,13 @@
       "populate_creative_tab": true
     },
     "urn": {
-      "enabled": true,
+      "enabled": false,
       "critter_spawn_chance": 0.009999999776482582
     },
     "soap": {
       "enabled": true,
       "clean_blacklist": [
-        "minecraft:glazed_terracotta",
-        "botania:mystical_flower",
-        "mna:chimerite_crystal",
-        "botania:floating_flower",
-        ",minecraft:mushroom",
-        "botania:mushroom",
-        "botania:tall_mystical_flower",
-        "botania:petal_block",
-        "morered:network_cable",
-        "xycraft_world:glowing_shiny_aurey_block",
-        "xycraft_world:shiny_aurey_block",
-        "xycraft_world:rgb_lamp",
-        "xycraft_world:glowing_rgb_viewer",
-        "xycraft_world:glowing_matte_rgb_block",
-        "xycraft_world:rgb_lamp_pole"
+        "minecraft:glazed_terracotta"
       ],
       "special_blocks": {
         "#alexscaves:cave_paintings": "alexscaves:smooth_limestone",
@@ -137,7 +119,9 @@
       "trapped_present": true
     },
     "flax": {
-      "enabled": true
+      "enabled": true,
+      "wandering_trader_trades": 2,
+      "farmer_trades": 1
     },
     "fodder": true,
     "hourglass": true
@@ -145,7 +129,7 @@
   "building": {
     "blackboard": {
       "enabled": true,
-      "colored_blackboard": false,
+      "colored_blackboard": true,
       "interaction_mode": "BOTH"
     },
     "timber_frame": {
@@ -169,7 +153,7 @@
     },
     "planter": {
       "enabled": true,
-      "broken_by_sapling": false,
+      "broken_by_sapling": true,
       "rich_soil_planter": true
     },
     "notice_board": {
@@ -197,7 +181,8 @@
     },
     "globe": {
       "enabled": true,
-      "sepia_globe": true
+      "sepia_globe": true,
+      "wandering_trader_trades": 2
     },
     "sign_post": {
       "enabled": true,
@@ -210,7 +195,8 @@
       "wattle_and_daub": true
     },
     "ash_bricks": {
-      "enabled": true
+      "enabled": true,
+      "mason_trades": true
     },
     "hat_stand": {
       "enabled": true,
@@ -225,6 +211,7 @@
     "blackstone_tile": true,
     "sconce": true,
     "sconce_lever": true,
+    "sconce_green": false,
     "pancake": true,
     "netherite_door": true,
     "netherite_trapdoor": true,
@@ -296,7 +283,8 @@
       "allow_enderpearls": false
     },
     "antique_ink": {
-      "enabled": true
+      "enabled": true,
+      "cartographer_trades": true
     },
     "candy": true,
     "stasis": true,
@@ -316,6 +304,9 @@
     "golden_apple_disenchant": {
       "enabled": true
     },
+    "dye_blocks": {
+      "enabled": false
+    },
     "traders_open_doors": {
       "enabled": true
     },
@@ -323,8 +314,35 @@
       "axe_strip": true,
       "shoot_ender_pearls": true
     },
+    "cake_tweaks": {
+      "double_cake": true,
+      "directional_cake": true
+    },
+    "mob_head_tweaks": {
+      "skull_piles": true,
+      "skull_candles": true,
+      "multiple_candles": true
+    },
+    "hanging_flower_pots": {
+      "enabled": true
+    },
     "throwable_bricks": {
       "enabled": true
+    },
+    "lantern_tweaks": {
+      "enabled": true,
+      "high_priority": true,
+      "mod_blacklist": [
+        "extlights",
+        "betterendforge",
+        "tconstruct",
+        "enigmaticlegacy"
+      ],
+      "falling_lanterns": "ON"
+    },
+    "bells_tweaks": {
+      "chain_ringing": true,
+      "chain_length": 16
     },
     "placeable_sticks": {
       "sticks": true,
@@ -350,6 +368,9 @@
       "death_marker": "WITH_COMPASS",
       "tinted_blocks_on_maps": true
     },
+    "ceiling_banners": {
+      "enabled": true
+    },
     "placeable_books": {
       "written_books": true,
       "enabled": true,
@@ -368,9 +389,6 @@
     },
     "bad_luck_tweaks": {
       "lightning_unluck": true
-    },
-    "item_lore": {
-      "enabled": true
     }
   }
 }

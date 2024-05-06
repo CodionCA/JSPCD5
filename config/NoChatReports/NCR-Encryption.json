@@ -1,12 +1,12 @@
 {
   "skipWarning": false,
-  "enableEncryption": true,
+  "enableEncryption": false,
   "encryptPublic": true,
-  "showEncryptionButton": false,
+  "showEncryptionButton": true,
   "showEncryptionIndicators": true,
-  "encryptionKey": "TiV7aveB8WrvUnp1LB0m4w\u003d\u003d",
+  "encryptionKey": "blfrngArk3chG6wzncOZ5A\u003d\u003d",
   "encryptionPassphrase": "",
-  "algorithmName": "AES/GCM+Base64",
+  "algorithmName": "AES/CFB8+Base64",
   "encryptableCommands": [
     "msg:1",
     "w:1",
