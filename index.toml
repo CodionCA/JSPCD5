@@ -1009,6 +1009,14 @@ file = "config/stutterfix-config.json"
 hash = "03e5adff2a24acf59b75a9c4d77da3bee44213d44ef970fa96d05dcfc90b09ba"
 
 [[files]]
+file = "config/supplementaries-client.json"
+hash = "b8b99baa6700038af70ebb75beaad960f68be5296f35f97df3dd110d6c5c4056"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "c8c81665890406b8dd1e70e69a63ea8bb1d37a7bc06274323d1981773f19f3e1"
+
+[[files]]
 file = "config/talkbubbles.json5"
 hash = "47649360ee1004456d3556f1a2f99e781fd1a3513d0a3a6dc06f4e7117bfe9e5"
 
