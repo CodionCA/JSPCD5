@@ -2479,7 +2479,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "b72f475de698e990b861aff8ad759913b6f063550e6d94cebf0cdd0bf4e0bdbb"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
@@ -2543,6 +2543,11 @@ hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "27b76eb4d8998f3d0b851304d22ea1c4578bc3acb61b354a7964f6f193b7983a"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "5df3192e091c1831f694af0dd49ff7d2514e7edd15973b534947992beb6b71be"
 metafile = true
@@ -2594,7 +2599,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "8eebb68df4f4626718ba11977e553595a1d11252bb881321019ab252a2ee0878"
+hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
 metafile = true
 
 [[files]]

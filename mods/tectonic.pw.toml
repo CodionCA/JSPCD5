@@ -3,11 +3,11 @@ filename = "tectonic-fabric-1.20-2.3.4.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/PFg0zBtc/tectonic-fabric-1.20-2.3.4.jar"
 hash-format = "sha1"
 hash = "ad53ec613869ce6b64e6744b06dec4f65fff30b1"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5245752
-project-id = 686836
+[update.modrinth]
+mod-id = "lWDHr9jE"
+version = "PFg0zBtc"
