@@ -2344,11 +2344,6 @@ hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
-file = "mods/observable.pw.toml"
-hash = "4a25843fc3042ddcf14e4abbd3426d68a76a7e2fde9091db8c6bea295c04a67e"
-metafile = true
-
-[[files]]
 file = "mods/offline-player-teleport.pw.toml"
 hash = "8d75136c2b85d8455d69bb1b7b9a141d8289e22a9047e31487c8f7a238582a8b"
 metafile = true
