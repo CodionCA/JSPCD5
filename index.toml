@@ -314,7 +314,7 @@ hash = "0db28b852e68e602e80940bc108ec70784d8975a8921d80678a0b24b3e088fd9"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "0441772f66559a1c71f4559dc4405438fc9b8383ce1229139257a7fe6d7b8de9"
+hash = "5ed001b4cc7d5314f1558466051d0bd0a2a83437920107025f6474917ee933ca"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -1745,11 +1745,6 @@ hash = "dfb633f2c8caea628d11741fb1463508fcc228e264a1a76e93cc099f57c4886c"
 metafile = true
 
 [[files]]
-file = "mods/camera-utils.pw.toml"
-hash = "4033685ca1b803e98a5b584f51715e0b9ca010260afc9999940f37db82c970da"
-metafile = true
-
-[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "a100ab07e0230aafc05fa5d57546e7dd95bc62a9e92347af3df78b06b3da3cfa"
 metafile = true
@@ -2812,3 +2807,7 @@ hash = "d6991345574b9f32ce6f6356211ba4600566f5c9d412a84b547b9055e3759567"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2_dev7 DH Support.zip.txt"
 hash = "14f859d113590200e866dbe57a47ae11dbde0a6aeeee20ad539e59be4eee4a10"
+
+[[files]]
+file = "shaderpacks/Pixel-Perfect-1-5-0.zip"
+hash = "68acb4a223e8fc6a3f9553e80aad10c93168fa0b4f5fbc28b4453dfef57a9267"
