@@ -1937,6 +1937,16 @@ hash = "7ad62a2209024addb96d707deb7ed08d843e133a6b0636611a651e8c515ea508"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7be72508e6f21a77ed8d14b2c93c2b12e61f6bff92e9ae03cbb0b656618dbbfb"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "aa83ba5af7931741e58c8d5582b9aee5674446ffc5ead596983ace135e2ec298"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -2602,11 +2612,6 @@ hash = "50b0983cb9db38b50c0e470731587a7c394898d62cc20cdbf309992acc09ca62"
 metafile = true
 
 [[files]]
-file = "mods/tiny-skeletons-forge.pw.toml"
-hash = "c775e1c172cdcc80ee054b5972de4b33017b2306328821da8da1ae5af704e04e"
-metafile = true
-
-[[files]]
 file = "mods/tool-trims.pw.toml"
 hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
 metafile = true
@@ -2749,6 +2754,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "331f013c371dc05a8bc87a6e3defb862952f7ac46a527c7786832f311a4707bd"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9.zip"
+hash = "24e434f4332ef645a4c985163cdcf08eef43698f538d78da56b1814d632b1ae1"
 
 [[files]]
 file = "resourcepacks/JadeStardewValleyTheme.zip"
