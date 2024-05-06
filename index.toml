@@ -1870,6 +1870,11 @@ hash = "4e305ed74b3975cb4bba455be9dd524e40441aeda06bb3df128eeafa59e0c222"
 metafile = true
 
 [[files]]
+file = "mods/dawn.pw.toml"
+hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
+metafile = true
+
+[[files]]
 file = "mods/deepcutting.pw.toml"
 hash = "1dc171e4ce80ede344f2386cfc1070cc2287c4072aba274f36b514c2211ef465"
 metafile = true
@@ -1960,7 +1965,7 @@ hash = "253398850f0a85936de6b2cbcc7b889d4a84433cee5fb782ca3b205689183d4f"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -2026,6 +2031,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
 metafile = true
 
 [[files]]
@@ -2264,6 +2274,11 @@ hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
+metafile = true
+
+[[files]]
 file = "mods/more-banner-features.pw.toml"
 hash = "14c11abd1edb03f1bb11e28a84816a2edd9ce235cb6bc3c46cc4e6a3b5669f93"
 metafile = true
@@ -2294,6 +2309,11 @@ hash = "82353cd9b74b15dc32229b2ad2cac620a35972422ebc15db60e2268c42c05f0e"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
@@ -2306,6 +2326,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
 metafile = true
 
 [[files]]
@@ -2354,6 +2379,11 @@ hash = "3e9696d8838a1705173a1708bb23ae9558ed0d45aefd5ee06e21d53bd90177c2"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "ef84d9a7ee3b67688643b6f9a8d03f6e8211adbf4b0fbe62f4ed5982da29c453"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "7c48c05c0cb23c978750f53547736f13ba5279b48c601fc7ce336c3200bfee9d"
 metafile = true
@@ -2376,6 +2406,11 @@ metafile = true
 [[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "0f4cbc95a3ba8b72b62fdae171933c59a6e4f87ec6e03b26e8d0dd2a0150f5ca"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
+hash = "4edb1d260abf93b2e69b319a44f2cbf26785850669dc28424bd678207c72f764"
 metafile = true
 
 [[files]]
@@ -2468,6 +2503,11 @@ hash = "5825d663fa6daf1d90c8f4375fbcf0c0fb1245a07f513866655c90252fe7f707"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
+metafile = true
+
+[[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "a4fced29c81b31d9f0888b61b1c3c53409c9f35dcb0c6242f2e0aebd8e15ba98"
 metafile = true
@@ -2535,6 +2575,11 @@ metafile = true
 [[files]]
 file = "mods/stutterfix.pw.toml"
 hash = "0174f372918ed7eb79d853c42943495b0d5d9bb6ab7326ca30f466dbc340d4ef"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "29810615e8704ebfa3f0fc632247b1dcf255fe3227d4224e05d84b4076169509"
 metafile = true
 
 [[files]]
